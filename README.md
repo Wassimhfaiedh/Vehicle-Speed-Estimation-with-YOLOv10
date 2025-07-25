@@ -48,6 +48,6 @@ python main.py
 - Estimate vehicle speeds and flag speeding violations (default speed limit: **60 km/h**).
 - Display the processed video with annotations in a window named "RGB".
 - Save the annotated video as **output_annotated.mp4**.
-2. Press **'q'** to exit the video display.
+3. Press **'q'** to exit the video display.
 
 
