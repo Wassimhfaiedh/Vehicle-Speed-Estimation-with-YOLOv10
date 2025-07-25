@@ -2,6 +2,8 @@
 
 This project implements a vehicle speed estimation system using the YOLOv10 object detection model and OpenCV for video processing. It detects vehicles (Cars, buses, and trucks), tracks their movement across a predefined line, estimates their speed, and flags speeding violations based on a set speed limit. The output is an annotated video with bounding boxes, speed information, and a monitoring panel.
 
+![img](img.png)
+
 ## Features
 - Detects and tracks vehicles (classes: car, truck ,bus) using YOLOv10.
 - Estimates vehicle speed by tracking movement across two reference points.
